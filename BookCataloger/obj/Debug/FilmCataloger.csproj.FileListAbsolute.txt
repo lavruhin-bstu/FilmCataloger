@@ -1,0 +1,48 @@
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\bin\Debug\BookCataloger.exe.config
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\bin\Debug\BookCataloger.exe
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\bin\Debug\BookCataloger.pdb
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\obj\Debug\FilmCataloger.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\obj\Debug\FilmCataloger.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\obj\Debug\FilmCataloger.AdditionForm.resources
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\obj\Debug\FilmCataloger.DisplayForm.resources
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\obj\Debug\FilmCataloger.EditingForm.resources
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\obj\Debug\FilmCataloger.SearchForm.resources
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\obj\Debug\FilmCataloger.Greeting.resources
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\obj\Debug\BookCataloger.Properties.Resources.resources
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\obj\Debug\FilmCataloger.csproj.GenerateResource.cache
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\obj\Debug\FilmCataloger.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\obj\Debug\FilmCataloger.csproj.CopyComplete
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\obj\Debug\BookCataloger.exe
+C:\Users\user\Desktop\test\BookCataloger-master — копия\BookCataloger\obj\Debug\BookCataloger.pdb
+C:\Users\user\Desktop\film\BookCataloger\bin\Debug\BookCataloger.exe.config
+C:\Users\user\Desktop\film\BookCataloger\bin\Debug\BookCataloger.exe
+C:\Users\user\Desktop\film\BookCataloger\bin\Debug\BookCataloger.pdb
+C:\Users\user\Desktop\film\BookCataloger\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\film\BookCataloger\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\film\BookCataloger\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\film\BookCataloger\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\film\BookCataloger\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Desktop\film\BookCataloger\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\film\BookCataloger\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\film\BookCataloger\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\film\BookCataloger\obj\Debug\FilmCataloger.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\film\BookCataloger\obj\Debug\FilmCataloger.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\film\BookCataloger\obj\Debug\FilmCataloger.AdditionForm.resources
+C:\Users\user\Desktop\film\BookCataloger\obj\Debug\FilmCataloger.DisplayForm.resources
+C:\Users\user\Desktop\film\BookCataloger\obj\Debug\FilmCataloger.EditingForm.resources
+C:\Users\user\Desktop\film\BookCataloger\obj\Debug\FilmCataloger.SearchForm.resources
+C:\Users\user\Desktop\film\BookCataloger\obj\Debug\FilmCataloger.Greeting.resources
+C:\Users\user\Desktop\film\BookCataloger\obj\Debug\BookCataloger.Properties.Resources.resources
+C:\Users\user\Desktop\film\BookCataloger\obj\Debug\FilmCataloger.csproj.GenerateResource.cache
+C:\Users\user\Desktop\film\BookCataloger\obj\Debug\FilmCataloger.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\film\BookCataloger\obj\Debug\FilmCataloger.csproj.CopyComplete
+C:\Users\user\Desktop\film\BookCataloger\obj\Debug\BookCataloger.exe
+C:\Users\user\Desktop\film\BookCataloger\obj\Debug\BookCataloger.pdb
